@@ -2,6 +2,27 @@
 
 _More powerful than the spiky blue shell_
 
+## Working with this GitHub repository
+
+Follow these steps to set up your own repository:
+
+1. Fork this repository on GitHub to create your own version of this repo on your GitHub account, which should also be named `Core-Unix-Utilities`
+
+1. Visit your fork and clone that repository onto your computer:
+`git clone https://github.com/<your-username>/Core-Unix-Utilities.git`
+
+1. Push your commits and link the local repo to your remote GitHub repo:
+`git push -u origin master`
+
+1. When you've completed a challenge and want to share it for code review, commit your work and push it to your own remote repo with:
+`git push`
+
+1. Add this GitHub repository as a _remote_ to the local one on your computer:
+`git remote add core https://github.com/Product-College-Labs/Core-Unix-Utilities.git`
+
+1. When you want to access new course materials, just pull from the origin remote repo:
+`git pull core master`
+
 ## Challenges, Part 1
 
 Challenges within each section are meant to be solved in order.
