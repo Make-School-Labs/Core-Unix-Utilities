@@ -34,3 +34,34 @@ Challenges within each section are meant to be solved in order.
 1.  Print what options a command accepts, like `bash` or `python`
 1.  Read the manual for a command, like `echo` or `ls`
 1.  Print the file path to a command, like `bash` or `python`
+
+### Files
+
+1.  Navigate to the directory `Animals`
+1.  Print the contents of the file `Cats.txt`
+1.  Print the contents of both files `Cats.txt` and `Dogs.txt`
+1.  Count the words in the file `Cats.txt`
+1.  Count the words in all files with the extension `.txt`
+1.  Copy the file `Dogs.txt` to a new file `BabyDogs.txt`
+1.  Rename the file `BabyDogs.txt` to `Puppies.txt`
+1.  Make a new directory named `Shelter` inside `Animals`
+1.  Move the file `Puppies.txt` into the directory `Shelter`
+1.  Copy the file `Cats.txt` to `Kittens.txt` inside `Shelter`
+1.  List the files within the directory `Shelter`
+1.  Count the words in all `.txt` files inside `Shelter`
+1.  Try to remove the directory `Shelter` (this should fail)
+1.  Remove all `.txt` files inside `Shelter`
+1.  Remove the directory `Shelter` (this should succeed)
+1.  Now cry because you just deleted those poor tiny animals
+
+### Permissions
+
+1.  Print out your user name
+1.  List the permissions (and metadata) of all `.txt` files
+1.  Give all users write permission on the file `Cats.txt`
+1.  List the permissions (and metadata) of the file `Cats.txt`
+1.  Change the owner of the file `Cats.txt` to another user
+1.  Now list the permissions (and owner) of the file `Cats.txt`
+1.  Try to change the owner of the file `Cats.txt` back to yourself
+1.  Invoke the super-user to make the previous command succeed
+1.  List the permissions (and owner) of the file `Cats.txt` again
