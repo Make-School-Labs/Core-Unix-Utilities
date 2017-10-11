@@ -86,3 +86,42 @@ Challenges within each section are meant to be solved in order.
 1.  Try to change the owner of the file `Cats.txt` back to yourself
 1.  Invoke the super-user to make the previous command succeed
 1.  List the permissions (and owner) of the file `Cats.txt` again
+
+
+## Challenges, Part 2
+
+These challenges utilize more sophisticated Unix utilities.
+Challenges within each section are meant to be solved in order.
+
+### Streams
+
+1.  Print a sentence like `Hello world` into a file named `test.txt`
+1.  Append another sentence `Hola Mundo` on a new line of `test.txt`
+1.  Print the contents of the file `test.txt`
+1.  Print the contents of the file `numbers.txt`
+1.  Print the first 10 lines in the file `numbers.txt`
+1.  Print the first 5 lines in the file `numbers.txt`
+1.  Print the last 10 lines in the file `numbers.txt`
+1.  Print the last 5 lines in the file `numbers.txt`
+1.  Print lines 6 through 10 in the file `numbers.txt`
+1.  Sort all lines in the file `numbers.txt`
+1.  Print the first 2 characters of each line in `numbers.txt`
+1.  Print only characters 9-16 of each line in `numbers.txt`
+1.  Sort the first 2 characters of each line in `numbers.txt`
+1.  Print only the unique first 2 characters of each line in `numbers.txt`
+1.  Replace all `o`s with `0`s in file `test.txt`
+1.  Capitalize all letters in the file `test.txt`
+1.  Capitalize all letters in the string `Hello world`
+
+### Search
+
+1.  Find the file named `Cats.txt` in the directory `Animals`
+1.  Find all files ending with `.py` in your code directory
+1.  Find all files larger than 100 MB in your movies directory
+1.  Find all lines containing the word `one` in the file `numbers.txt`
+1.  Find all lines containing the letter `e` at least 3 times in the file `numbers.txt`
+1.  Find the `search` function definition in a source code file
+1.  Find the `search` function definition in all source code files
+1.  Count the lines and words in all source code files
+1.  Find all U.S. zip codes in a file containing addresses
+1.  Find all U.S. zip codes in a file containing addresses
